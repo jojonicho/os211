@@ -10,3 +10,4 @@ ZCZC W00 20	  L08 Finding out what is a debian guest
 ZCZC W01 100  L02 Class
 ZCZC W01 200  L04 Setup jekyll
 ZCZC W01 100  L17 Reading and summarizing links for Assignment #7
+ZCZC W01 30   L17 Reading and adding more links for Assignment #7
