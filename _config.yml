@@ -1,0 +1,19 @@
+title:       "Operating Systems 2021-1 (OS211)"
+description: "Ohayo!"
+
+author:           "Jonathan Nicholas"
+address:          "Jakarta"
+
+urlweb:           "https://jojonicho.github.io/"
+urlgithub:        "https://github.com/jojonicho/os211/"
+urlghpage:        "https://jojonicho.github.io/os211/"
+keywords:         "jekyll, testing"
+github:           [metadata]
+
+version:     "1.0.0---01-Mar-2021"
+copyright:   "2021-2021"
+
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
