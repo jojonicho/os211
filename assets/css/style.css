@@ -1,6 +1,7 @@
 html {
   --purple: #845ec2;
   --pink: #fbeaff;
+  overflow-x: hidden;
 }
 
 .backclass {
