@@ -10,16 +10,20 @@
       <header>
         <div class="row">
           <div class="column">
-            <img
-              src="{{ site.baseurl }}/assets/images/jojonicho.png"
-              alt="Jonathan Nicholas"
-              style="width: 130px; border-radius: 50%"
-            />
+            <a href="/">
+              <img
+                src="{{ site.baseurl }}/assets/images/jojonicho.png"
+                alt="Jonathan Nicholas"
+                style="width: 130px; border-radius: 50%"
+              />
+            </a>
           </div>
           <div class="column">
             <div class="row">
-              {% if page.title %}{{ page.title | escape }} {% else %}{{
-              site.title | escape }}{% endif %}
+              <h1>
+                {% if page.title %}{{ page.title | escape }} {% else %}{{
+                site.title | escape }}{% endif %}
+              </h1>
             </div>
             <div class="row">
               {% if page.author %}{{ page.author | escape }} {% else %}{{
