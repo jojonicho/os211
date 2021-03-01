@@ -1,13 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 35	  L03 Setup repository
-ZCZC W00 20	  L04 GitHub Pages: setting, etc.
-ZCZC W00 30	  L03 Pop quiz related
-ZCZC W00 100	L02 Class
-ZCZC W00 20	  L08 Finding out what is a debian guest
+ZCZC W00 35	L03 Setup repository
+ZCZC W00 20	L04 GitHub Pages: setting, etc.
+ZCZC W00 30	L03 Pop quiz related
+ZCZC W00 100 	L02 Class
+ZCZC W00 20	L08 Finding out what is a debian guest
 
-ZCZC W01 100  L02 Class
-ZCZC W01 200  L04 Setup jekyll
-ZCZC W01 100  L17 Reading and summarizing links for Assignment #7
-ZCZC W01 30   L17 Reading and adding more links for Assignment #7
+ZCZC W01 100  	L02 Class
+ZCZC W01 200  	L04 Setup jekyll
+ZCZC W01 100  	L17 Reading and summarizing links for
+ZCZC W01 30   	L17 Reading and adding more links for
+ZCZC W01 180	L11 Installing a debian guest
+ZCZC W01 180	L11 Finish installing debian guest
+ZCZC W01 100   	L17 Finish curate list of top 10 links
