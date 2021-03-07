@@ -21,3 +21,4 @@ ZCZC W01 1000	L13 practice using VIM on terminal, vscode, and intellij
 ZCZC W01 60	L14 Read addUser article, SSHGuest 
 ZCZC W01 120	L15 Clone repositories
 ZCZC W01 60	L16 Update mylog.txt
+ZCZC W00 30	L03 Pop quiz related
