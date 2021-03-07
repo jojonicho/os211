@@ -15,3 +15,9 @@ ZCZC W01 180	L11 Installing a debian guest
 ZCZC W01 180	L11 Finish installing debian guest
 ZCZC W01 100   	L17 Finish curate list of top 10 links
 ZCZC W01 60	L17 Read and add ranks of friend's list
+ZCZC W01 120	L12 Read materials
+ZCZC W01 60	L13 learn cp, rm, mv, grep, sort
+ZCZC W01 1000	L13 practice using VIM on terminal, vscode, and intellij
+ZCZC W01 60	L14 Read addUser article, SSHGuest 
+ZCZC W01 120	L15 Clone repositories
+ZCZC W01 60	L16 Update mylog.txt
