@@ -19,7 +19,7 @@ ZCZC W01 100	L12 Read materials
 ZCZC W01 60	L13 learn cp, rm, mv, grep, sort
 ZCZC W01 500	L13 practice using VIM on terminal, vscode, and intellij
 ZCZC W01 60	L14 Read addUser article, SSHGuest 
-ZCZC W01 20	L15 Clone repositories
+ZCZC W01 120	L15 Clone my repository inside virtual box ssh
 ZCZC W01 20	L16 Update mylog.txt
 ZCZC W01 30  	L17 Reading and summarizing links
 ZCZC W01 30   	L17 Reading and adding more links
