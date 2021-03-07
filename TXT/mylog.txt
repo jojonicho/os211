@@ -14,3 +14,4 @@ ZCZC W01 30   	L17 Reading and adding more links for
 ZCZC W01 180	L11 Installing a debian guest
 ZCZC W01 180	L11 Finish installing debian guest
 ZCZC W01 100   	L17 Finish curate list of top 10 links
+ZCZC W01 60	L17 Read and add ranks of friend's list
