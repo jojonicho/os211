@@ -30,3 +30,6 @@ ZCZC W01 60	L27 Play with winter, feed winter, clean winter poop
 
 ZCZC W02 100	L02 Class, ask about W0 grading
 ZCZC W02 30	L10 Read slide, export mypubkey.txt, make SHA256SUM and sign
+ZCZC W02 80	L10 Added half of w02 links, fix broken links on w01
+ZCZC W02 30	L23 Protest on missing extra score of W00
+ZCZC W01 20	L27 Play with winter
