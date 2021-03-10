@@ -32,5 +32,8 @@ ZCZC W02 100	L02 Class, ask about W0 grading
 ZCZC W02 30	L03 Pop quiz tuesday, rip 1 number
 ZCZC W02 30	L10 Read slide, export mypubkey.txt, make SHA256SUM and sign
 ZCZC W02 80	L10 Added half of w02 links, fix broken links on w01
+ZCZC W02 300	L10 Finish reading, and summarizing 10 links for w02
+ZCZC W01 20	L17 Add more friends on myrank
 ZCZC W02 30	L23 Protest on missing extra score of W00
-ZCZC W01 20	L27 Play with winter
+ZCZC W01 80	L26 Read 5 chapters of My Hero Academia, watch Jujutsu Kaisen 
+ZCZC W01 80	L27 Play with winter, clean winter poop
