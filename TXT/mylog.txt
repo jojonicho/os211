@@ -1,39 +1,37 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 35	L03 Setup repository
-ZCZC W00 20	L04 GitHub Pages: setting, etc.
-ZCZC W00 30	L03 Pop quiz related
-ZCZC W00 100 	L02 Class
-ZCZC W00 20	L08 Finding out what is a debian guest
-
-ZCZC W01 1  	L00 Start W01
-ZCZC W01 100  	L02 Class
-ZCZC W01 30	L03 Pop quiz related
-ZCZC W01 200  	L04 Setup jekyll
-ZCZC W01 40 	L05 atm hockyy, stevensim226
-ZCZC W01 10	L10 Read slide, make sure checklist everything
-ZCZC W01 60	L11 Installing a debian guest
-ZCZC W01 60	L11 Finish installing debian guest
-ZCZC W01 100	L12 Read materials
-ZCZC W01 60	L13 learn cp, rm, mv, grep, sort
-ZCZC W01 500	L13 practice using VIM on terminal, vscode, and intellij
-ZCZC W01 60	L14 Read addUser article, SSHGuest 
-ZCZC W01 120	L15 Clone my repository inside virtual box ssh
-ZCZC W01 20	L16 Update mylog.txt
-ZCZC W01 30  	L17 Reading and summarizing links
-ZCZC W01 30   	L17 Reading and adding more links
-ZCZC W01 10   	L17 Finish curate list of top 10 links
-ZCZC W01 20	L17 Read and add ranks of friend's list
-ZCZC W01 200	L26 Watch 12 episodes of Yamada-kun to 7-nin no Majo
-ZCZC W01 60	L27 Play with winter, feed winter, clean winter poop
-
-ZCZC W02 100	L02 Class, ask about W0 grading
-ZCZC W02 30	L03 Pop quiz tuesday, rip 1 number
-ZCZC W02 30	L10 Read slide, export mypubkey.txt, make SHA256SUM and sign
-ZCZC W02 80	L10 Added half of w02 links, fix broken links on w01
-ZCZC W02 300	L10 Finish reading, and summarizing 10 links for w02
-ZCZC W01 20	L17 Add more friends on myrank
-ZCZC W02 30	L23 Protest on missing extra score of W00
-ZCZC W01 80	L26 Read 5 chapters of My Hero Academia, watch Jujutsu Kaisen 
-ZCZC W01 80	L27 Play with winter, clean winter poop
+ZCZC W00  35 L03 Setup repository
+ZCZC W00  20 L04 GitHub Pages: setting, etc.
+ZCZC W00  30 L03 Pop quiz related
+ZCZC W00 100 L02 Class
+ZCZC W00  20 L08 Finding out what is a debian guest
+ZCZC W01   1 L00 Start W01
+ZCZC W01 100 L02 Class
+ZCZC W01  30 L03 Pop quiz related
+ZCZC W01 200 L04 Setup jekyll
+ZCZC W01  40 L05 atm hockyy, stevensim226
+ZCZC W01  10 L10 Read slide, make sure checklist everything
+ZCZC W01  60 L11 Installing a debian guest
+ZCZC W01  60 L11 Finish installing debian guest
+ZCZC W01 100 L12 Read materials
+ZCZC W01  60 L13 learn cp, rm, mv, grep, sort
+ZCZC W01 500 L13 practice using VIM on terminal, vscode, and intellij
+ZCZC W01  60 L14 Read addUser article, SSHGuest 
+ZCZC W01 120 L15 Clone my repository inside virtual box ssh
+ZCZC W01  20 L16 Update mylog.txt
+ZCZC W01  30 L17 Reading and summarizing links
+ZCZC W01  30 L17 Reading and adding more links
+ZCZC W01  10 L17 Finish curate list of top 10 links
+ZCZC W01  20 L17 Read and add ranks of friend's list
+ZCZC W01 200 L26 Watch 12 episodes of Yamada-kun to 7-nin no Majo
+ZCZC W01  60 L27 Play with winter, feed winter, clean winter poop
+ZCZC W02 100 L02 Class, ask about W0 grading
+ZCZC W02  30 L03 Pop quiz tuesday, rip 1 number
+ZCZC W02  30 L10 Read slide, export mypubkey.txt, make SHA256SUM and sign
+ZCZC W02  80 L10 Added half of w02 links, fix broken links on w01
+ZCZC W02 300 L10 Finish reading, and summarizing 10 links for w02
+ZCZC W02  20 L17 Add more friends on myrank
+ZCZC W02  30 L23 Protest on missing extra score of W00
+ZCZC W02  80 L26 Read 5 chapters of My Hero Academia, watch Jujutsu Kaisen 
+ZCZC W02  80 L27 Play with winter, clean winter poop
