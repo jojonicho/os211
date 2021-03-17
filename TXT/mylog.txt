@@ -35,3 +35,5 @@ ZCZC W02  20 L17 Add more friends on myrank
 ZCZC W02  30 L23 Protest on missing extra score of W00
 ZCZC W02  80 L26 Read 5 chapters of My Hero Academia, watch Jujutsu Kaisen 
 ZCZC W02  80 L27 Play with winter, clean winter poop
+ZCZC W03 100 L02 W03 Class
+ZCZC W03  30 L03 Pop quiz related
