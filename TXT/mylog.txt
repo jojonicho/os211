@@ -36,5 +36,6 @@ ZCZC W02  30 L23 Protest on missing extra score of W00
 ZCZC W02  80 L26 Read 5 chapters of My Hero Academia, watch Jujutsu Kaisen 
 ZCZC W02  80 L27 Play with winter, clean winter poop
 ZCZC W03 100 L02 W03 Class
-ZCZC W03  30 L03 Pop quiz related
+ZCZC W03  60 L03 Pop quiz related
 ZCZC W03  60 L10 Read, learn and summarize 5 out of 10 links for this week's top 10 
+ZCZC W03  30 L10 Do the tarball stuff
