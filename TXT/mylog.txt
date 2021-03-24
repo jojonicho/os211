@@ -40,3 +40,7 @@ ZCZC W03  60 L03 Pop quiz related
 ZCZC W03  60 L10 Read, learn and summarize 5 out of 10 links for this week's top 10 
 ZCZC W03  30 L10 Do the tarball stuff
 ZCZC W03 120 L10 Finish remaining 5 links for w03.md
+ZCZC W04   1 L00 Start W04
+ZCZC W04 100 L02 W04 Class
+ZCZC W04  30 L03 Pop quiz
+ZCZC W04  60 L10 Finish getting WEEK04-TLPI txt file
