@@ -46,3 +46,5 @@ ZCZC W04  30 L03 Pop quiz
 ZCZC W04  60 L10 Finish getting WEEK04-TLPI txt file
 ZCZC W04 120 L10 Learning and reading about memory virtualization, paging, tlb
 ZCZC W04 120 L10 Write and pour in knowledge in w04.md
+ZCZC W05   1 L00 Start W05
+ZCZC W05  30 L03 Pop quiz
