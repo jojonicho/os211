@@ -47,9 +47,11 @@ ZCZC W04  60 L10 Finish getting WEEK04-TLPI txt file
 ZCZC W04 120 L10 Learning and reading about memory virtualization, paging, tlb
 ZCZC W04 120 L10 Write and pour in knowledge in w04.md
 ZCZC W05   1 L00 Start W05
+ZCZC W04 100 L02 Class
 ZCZC W05  30 L03 Pop quiz
 ZCZC W06  60 L06 Learn about trade-offs of memory size, COW, page caching algorithm.
 ZCZC W05  30 L07 Try out w05 demo
+ZCZC W05  30 L11 Extract W05 demo txt
 ZCZC W05  30 L12 Rank neighbors
 ZCZC W05 120 L13 Create top 10 list
 ZCZC W05  30 L14 Download and wait for tarball phrase
