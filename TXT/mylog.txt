@@ -57,3 +57,4 @@ ZCZC W05 120 L13 Create top 10 list
 ZCZC W05  30 L14 Download and wait for tarball phrase
 ZCZC W05  30 L15 Update logs
 ZCZC W05   1 L16 SHA256SUM and signed
+ZCZC W05  80 L27 Play with winter, clean winter poop
