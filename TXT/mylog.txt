@@ -61,6 +61,7 @@ ZCZC W05  80 L27 Play with winter, clean winter poop
 ZCZC W06   1 L00 Start W06
 ZCZC W06 100 L02 Class
 ZCZC W06  30 L03 Pop quiz
+ZCZC W06 120 L13 Create top 10 list 5/10
 ZCZC W06  30 L14 Do w06 demo about fork
 ZCZC W06  30 L15 Update logs
 ZCZC W06   1 L16 SHA256SUM and signed
