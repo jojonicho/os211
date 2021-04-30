@@ -67,7 +67,9 @@ ZCZC W06  30 L15 Update logs
 ZCZC W06   1 L16 SHA256SUM and signed
 ZCZC W07   1 L00 Start W07
 ZCZC W07 100 L02 Class
+ZCZC W07  60 L03 Pop quiz
 ZCZC W07 120 L13 Create top 10 list 5/10
+ZCZC W07 180 L13 Finish top 10 list 10/10
 ZCZC W07  30 L14 Do w07 task scp to ckilat 
 ZCZC W07  30 L15 Update logs
 ZCZC W07   1 L16 SHA256SUM and signed
